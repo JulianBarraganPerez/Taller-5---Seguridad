@@ -3,7 +3,7 @@
 ## Fecha de la sesión
 14 de Marzo de 2026
 
-## Integrantes presentes
+## Integrantes
 - Juan David González  
 - Julián Barragán  
 - Josué Sarmiento  
@@ -12,9 +12,9 @@
 
 # Actividades realizadas en clase
 
-Durante la sesión se analizó el caso base **EdukIT**, una plataforma de educación virtual utilizada para la gestión de cursos, contenidos académicos, evaluaciones y pagos por suscripción.
+Durante la sesión se analizó el caso base EdukIT, una plataforma de educación virtual utilizada para la gestión de cursos, contenidos académicos, evaluaciones y pagos por suscripción.
 
-El objetivo del trabajo fue aplicar el modelo de análisis de amenazas **STRIDE** para identificar posibles riesgos de seguridad dentro de uno de los procesos críticos del sistema.
+El objetivo del trabajo fue aplicar el modelo de análisis de amenazas STRIDE para identificar posibles riesgos de seguridad dentro de uno de los procesos críticos del sistema.
 
 El equipo inició la actividad revisando el funcionamiento general de la plataforma EdukIT y los distintos actores involucrados en el sistema:
 
@@ -29,9 +29,9 @@ A partir de este análisis se identificaron los procesos sensibles del sistema, 
 - Procesamiento de pagos
 - Almacenamiento de datos personales y notas académicas
 
-Luego de discutir las opciones, el equipo decidió analizar el flujo crítico **acceso de estudiantes a cursos y materiales**, debido a que este proceso involucra autenticación de usuarios, control de acceso y manejo de información académica.
+Luego de discutir las opciones, el equipo decidió analizar el flujo crítico acceso de estudiantes a cursos y materiales, debido a que este proceso involucra autenticación de usuarios, control de acceso y manejo de información académica.
 
-Posteriormente se aplicó el marco **STRIDE** para identificar amenazas en seis categorías principales:
+Posteriormente se aplicó el marco STRIDE para identificar amenazas en seis categorías principales:
 
 - Spoofing (Suplantación de identidad)
 - Tampering (Manipulación de datos)
@@ -54,7 +54,7 @@ Durante la clase se construyó una tabla de análisis STRIDE donde se documentar
 
 Esta tabla permite visualizar de forma estructurada los riesgos de seguridad del sistema y facilita la definición de medidas de protección para mejorar la seguridad de la plataforma EdukIT.
 
-El análisis de la **Parte 1 del taller** fue desarrollado por **Juan David González y Julián Barragán**, quienes se encargaron de identificar el flujo crítico del sistema y aplicar el modelo STRIDE para el análisis de amenazas.
+El análisis de la Parte 1 del taller fue desarrollado por Juan David González y Julián Barragán, quienes se encargaron de identificar el flujo crítico del sistema y aplicar el modelo STRIDE para el análisis de amenazas.
 
 ---
 
